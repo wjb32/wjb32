@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wjb32
-- 😀 I’m interested in /data analysis & statistics /bigdata 
+- 😀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning engineering
 
 <!---
